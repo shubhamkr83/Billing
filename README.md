@@ -13,5 +13,5 @@ Repo link:- https://github.com/shubhamkr83/Billing
 </ol>
 
 <h2>To deploy the app:-</h2>
-Step1:- Run this command to create a build folder:- <code> yarn build </code>
+<h4>Step1:- Run this command to create a build folder:- <code> yarn build </code></h4>
 
