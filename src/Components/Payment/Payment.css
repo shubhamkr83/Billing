@@ -1,0 +1,33 @@
+.pay_sec {
+    width: 45%;
+    height: 42rem;
+    display: grid;
+    place-items: center;
+    padding: 1.8rem 0;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* border: 2px solid red; */
+}
+
+
+.pay_mode {
+    width: 85%;
+    /* border: 2px solid red; */
+}
+
+.mode {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 2rem 0;
+    /* border: 2px solid red; */
+}
+
+.mode h2 {
+    font-size: 2rem;
+    padding: 0 2rem;
+    place-items: center;
+}
+
+.mode img {
+    width: 6.6rem;
+}
