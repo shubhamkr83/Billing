@@ -14,4 +14,5 @@ Repo link:- https://github.com/shubhamkr83/Billing
 
 <h2>To deploy the app:-</h2>
 <h4>Step1:- Run this command to create a build folder:- <code> yarn build </code></h4>
+<h4>Step2:- Drag and drop build folder to netlify app</h4>
 
