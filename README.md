@@ -6,9 +6,9 @@
 <h4>Step1:- Clone this repo or download the zip file:- </h4>
 Repo link:- https://github.com/shubhamkr83/Billing
   
-<h4>Step1:- Run this command to install all the dependencies:- <code> yarn </code>  </h4>
+<h4>Step2:- Run this command to install all the dependencies:- <code> yarn </code>  </h4>
 
-<h4>Step1:- Run this command to start the app:- <code> yarn dev </code> </h4>
+<h4>Step3:- Run this command to start the app:- <code> yarn dev </code> </h4>
 
 <h2>To deploy the app:-</h2>
 <h4>Step1:- Run this command to create a build folder:- <code> yarn build </code></h4>
